@@ -18,8 +18,9 @@ Certified in Machine Learning (Codecademy, September 2024), I specialize in pred
 ## Featured Projects  
 
 - **[Oil & Gas Lateral Efficiency Tool](#)** *(In Progress)*  
-  Tens of thousands of wells in **Midland County (2015–present)** analyzed to evaluate production performance by lateral length and operator.  
-  Includes decline modeling, EUR forecasting, time series clustering, and geospatial mapping with public Texas RRC data.  
+  Analyzing **11,815 horizontal wells** drilled by producers in **Midland County (2015–present)** to evaluate production performance by lateral length and operator.  
+  Includes decline modeling, EUR forecasting, time series clustering, and geospatial analysis using public Texas RRC data.  
+  The project captures **every horizontal well drilled during this period**, enabling field-wide benchmarking of operator strategy, recovery efficiency, and asset value.
 
 - **[Income Classification with CatBoost](https://github.com/Devin-Shrode/Census-Income-Analysis-and-Modeling)**  
   ML pipeline predicting income using census data. Features include data cleaning, feature engineering, hyperparameter tuning, and FastAPI/Docker deployment (87% accuracy, 0.93 ROC-AUC).  

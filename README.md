@@ -2,7 +2,8 @@
 
 I'm a systems-driven engineer and machine learning developer with 14 years in oil & gas, now focused on building AI-powered tools for real-world operational challenges. I've designed, built, and optimized hundreds of miles of pipelines and compressor stations—delivering over $1 billion in infrastructure development.  Today, I apply that same precision to code, models, and data systems.
 
-Certified in Machine Learning (Codecademy, September 2024), I specialize in predictive modeling, time series forecasting, and process optimization—bridging domain expertise with modern ML tools.
+Certified in Machine Learning (Codecademy, September 2024), specializing in predictive modeling, time series forecasting, geospatial analysis, and process optimization—leveraging deep Oil & Gas domain expertise and modern ML tools.
+
 
 ---
 

@@ -8,20 +8,20 @@ Certified in Machine Learning (Codecademy, September 2024), specializing in pred
 ---
 
 ## Areas of Expertise  
-- Machine Learning, Time Series Forecasting, Predictive Modeling  
-- Feature Engineering, Data Preprocessing, Pipeline Automation  
-- Python, SQL, Pandas, Scikit-Learn, DuckDB, FastAPI, Jupyter  
-- Oil & Gas Systems: Compressor Design, Pipeline Optimization, Process Modeling  
-- Financial Strategy, Risk Analysis, Business Operations  
+- Machine Learning, Time Series Forecasting, Predictive Modeling, Geospatial Analytics  
+Data Preprocessing, Feature Engineering, Pipeline Automation, Data Integration  
+- Python, SQL, Pandas, Scikit-Learn, DuckDB, FastAPI, JupyterLab  
+- Oil & Gas Systems: Compressor Station Design, Pipeline Optimization, Production Modeling, Decline Curve Analysis  
+- Financial Strategy, Risk Assessment, Business Operations & Strategic Leadership
 
 ---
 
 ## Featured Projects  
 
-- **[Oil & Gas Lateral Efficiency Tool](#)** *(In Progress)*  
-  Analyzing **11,815 horizontal wells** drilled by producers in **Midland County (2015–present)** to evaluate production performance by lateral length and operator.  
-  Includes decline modeling, EUR forecasting, time series clustering, and geospatial analysis using public Texas RRC data.  
-  The project captures **every horizontal well drilled during this period**, enabling field-wide benchmarking of operator strategy, recovery efficiency, and asset value.
+- **[Oil & Gas Lateral Efficiency Analysis (Mabee Ranch)](#)** *(In Progress)*  
+  A detailed analysis of **11,815 horizontal wells** drilled in **Midland County, TX (2015–2025)**, integrating comprehensive datasets from Texas RRC (drilling permits, completions, and production) to assess how lateral length impacts hydrocarbon recovery. The project leverages advanced techniques including **decline curve analysis**, **EUR forecasting**, **time series clustering**, and **geospatial analytics** to reveal insights into operator-specific drilling strategies, efficiency trends, and production optimization.  
+  By comparing **2-mile and 3-mile laterals**, this study provides mineral rights owners actionable intelligence about operator effectiveness, hydrocarbon recovery rates, and economic performance. The analysis is designed to serve as a strategic benchmarking tool, empowering informed decision-making around future drilling proposals, lease negotiations, and long-term asset valuation.
+
 
 - **[Income Classification with CatBoost](https://github.com/Devin-Shrode/Census-Income-Analysis-and-Modeling)**  
   ML pipeline predicting income using census data. Features include data cleaning, feature engineering, hyperparameter tuning, and FastAPI/Docker deployment (87% accuracy, 0.93 ROC-AUC).  

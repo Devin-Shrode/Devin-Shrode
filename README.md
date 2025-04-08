@@ -18,7 +18,7 @@ Data Preprocessing, Feature Engineering, Pipeline Automation, Data Integration
 
 ## Featured Projects  
 
-- **[Oil & Gas Lateral Efficiency Analysis (Mabee Ranch)](#)** *(In Progress)*  
+- **[Oil & Gas Lateral Efficiency Analysis](#)** *(In Progress)*  
   A detailed analysis of **11,815 horizontal wells** drilled in **Midland County, TX (2015–2025)**, integrating comprehensive datasets from Texas RRC (drilling permits, completions, and production) to assess how lateral length impacts hydrocarbon recovery. The project leverages advanced techniques including **decline curve analysis**, **EUR forecasting**, **time series clustering**, and **geospatial analytics** to reveal insights into operator-specific drilling strategies, efficiency trends, and production optimization.  
   By comparing **2-mile and 3-mile laterals**, this study provides mineral rights owners actionable intelligence about operator effectiveness, hydrocarbon recovery rates, and economic performance. The analysis is designed to serve as a strategic benchmarking tool, empowering informed decision-making around future drilling proposals, lease negotiations, and long-term asset valuation.
 

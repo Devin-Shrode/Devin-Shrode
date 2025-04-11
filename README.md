@@ -37,14 +37,6 @@ I hold a B.S. in Mechanical Engineering from Texas Christian University (2007) a
 
 Since 2021, I’ve served as CFO of Luna Therapy PLLC, a company I co-founded with my wife, where I doubled revenue through data-informed financial strategies. Today, I’m applying that same analytical rigor to build machine learning pipelines that forecast production, model well performance, and drive smarter field development decisions.
 
-My current project gives mineral rights holders access to public data—but with the kind of modeling, forecasting, and decision-support tools traditionally reserved for producers. By analyzing 11,815 horizontal wells, applying time series forecasting, and visualizing performance by operator and lateral length, the platform unlocks insights into ultimate recovery, development strategy, and asset value.
-
-While traditional field analysis relies on spreadsheets and static decline curves, this framework applies modern machine learning techniques to uncover patterns, forecast outcomes, and scale insights across entire basins.
-
-The analysis begins with Midland County, but the framework is designed to scale—enabling basin-wide modeling and competitive benchmarking across broader geographies as more data is integrated.
-
-It’s about empowering stakeholders to make data-backed decisions with full-field awareness, even without the in-house resources of an operator—bridging the gap between public transparency and private performance intelligence.
-
 ---
 
 ## Contact  
